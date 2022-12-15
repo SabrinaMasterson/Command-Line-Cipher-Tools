@@ -16,3 +16,5 @@ Limitations: Special characters and numbers can't be encoded or decoded, and as 
   this dictionary does not have spaces between the phrases to aid in hashing or password cracking 
     (for example, the phrase "chicken casserole" has its space removed to become "chickencasserole", as some cracking tools like Hashcat would see the space as a seperator for two words instead of a single phrase)
 Limitations: Only one website is scraped at this moment, https://www.onelook.com/thesaurus/ and it cannot collect every single page of results, only the first page for each tab. 
+
+Special thanks to Joshua Compton for giving me the password dictionary idea in the beginning of the semester when I had drawn a complete blank. Special thanks to Nicholas Wilson in helping me with work at the end of the semester, when I was bangning my head on a wall with Ajax.
